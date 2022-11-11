@@ -1,3 +1,4 @@
+![MasterHead](https://auzziebusiness.com.au/wp-content/uploads/2021/04/web-development.jpg)
 <h1 align="center">Hi 👋, I am Radhe Shyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **rscm737@gmail.com**
 
-- ⚡ Fun fact **Im funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
